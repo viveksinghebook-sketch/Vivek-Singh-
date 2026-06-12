@@ -1,0 +1,6 @@
+{
+  "name": "RR Coaching",
+  "description": "Premium EdTech application for RR Coaching Centre by Vinay Sir, offering live/recorded classes, test series, AI doubts solver, and assignments for Classes 9th-12th in Hindi, English, and Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
